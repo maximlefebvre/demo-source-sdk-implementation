@@ -7,7 +7,7 @@ module.exports = {
         {
           "objects":
           {
-            "messages": ["create", "show", "list"],
+            "messages": ["create", "show", "list", "reply"],
             "private_messages": ["create", "show", "list"],
             "threads": ["create", "show", "list"]
           },
